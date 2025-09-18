@@ -1,0 +1,7 @@
+pandas
+SQLAlchemy>=2.0
+psycopg2-binary ; platform_system!="Windows"
+PyMySQL
+python-dotenv
+tenacity
+matplotlib>=3.7,<3.9

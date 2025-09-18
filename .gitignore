@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Tools / reports / logs
+logs/
+reports/
+.quarantine/
+.quarantine/*
+.etl.lock
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
